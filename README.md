@@ -1,4 +1,4 @@
-🌍 🇪🇸 [Español](https://github.com/lucaslopez411-bot/lucaslopez411-bot/blob/main/README.md) | 🇬🇧 [English](https://github.com/lucaslopez411-bot/lucaslopez411-bot/blob/main/README.en.md)
+🌍 🇪🇸 ## [Español](https://github.com/lucaslopez411-bot/lucaslopez411-bot/blob/main/README.md) | 🇬🇧 ## [English](https://github.com/lucaslopez411-bot/lucaslopez411-bot/blob/main/README.en.md)
 
 # Hola, soy Lucas 👋
 
