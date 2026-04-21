@@ -19,7 +19,7 @@ Tengo experiencia en contabilidad y finanzas, y actualmente estoy haciendo la tr
 * 📉 Dashboard de Negocios (Power BI)
 * 💰 Análisis de Datos Financieros *(próximamente)*
 
-## �Actualmente Aprendiendo
+## 🚀 Actualmente Aprendiendo
 
 * Machine Learning y Optimización de Modelos
 * Deep Learning con TensorFlow
