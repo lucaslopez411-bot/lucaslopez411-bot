@@ -1,3 +1,5 @@
+🌍 Español | 🇬🇧 English
+
 # Hi, I'm Lucas 👋
 
 🎓 Accountant | Master's student in accounting and finance | 📊 Aspiring Data Analyst / Data Scientist
