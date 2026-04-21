@@ -1,35 +1,35 @@
-🌍 Español | 🇬🇧 English
+🌍 Español | 🇬🇧 English [Español](URL_del_enlace) | 🇬🇧 [English](https://github.com/lucaslopez411-bot/lucaslopez411-bot/blob/main/README.en.md)
 
-# Hi, I'm Lucas 👋
+# Hola, soy Lucas 👋
 
-🎓 Accountant | Master's student in accounting and finance | 📊 Aspiring Data Analyst / Data Scientist
+🎓 Contador | Maestrando en contabilidad y finanzas | 📊 Aspirante a Data Analyst / Data Scientist
 
-I have a background in accounting and finance, and I am currently transitioning into data science. I enjoy working with data to solve business problems and generate meaningful insights.
+Tengo experiencia en contabilidad y finanzas, y actualmente estoy haciendo la transición hacia la ciencia de datos. Disfruto trabajar con datos para resolver problemas empresariales y generar insights significativos.
 
-## 🛠️ Skills
+## 🛠️ Habilidades
 
 * Python (Pandas, NumPy, Scikit-learn)
 * Power BI
 * Excel
-* Machine Learning (Supervised & Unsupervised)
+* Machine Learning (Supervisado y No Supervisado)
 
-## 📈 Projects
+## 📈 Proyectos
 
-* 📊 Churn Prediction (Machine Learning)
-* 📉 Business Dashboard (Power BI)
-* 💰 Financial Data Analysis *(coming soon)*
+* 📊 Predicción de Churn (Machine Learning)
+* 📉 Dashboard de Negocios (Power BI)
+* 💰 Análisis de Datos Financieros *(próximamente)*
 
-## 🚀 Currently Learning
+## �Actualmente Aprendiendo
 
-* Machine Learning & Model Optimization
-* Deep Learning with TensorFlow
-* Improving my English for professional communication
+* Machine Learning y Optimización de Modelos
+* Deep Learning con TensorFlow
+* Mejorando mi inglés para comunicación profesional
 
-## 🎯 Goals
+## 🎯 Objetivos
 
-I am looking for opportunities as a Data Analyst where I can apply my skills, learn from real-world challenges, and grow professionally.
+Estoy buscando oportunidades como Data Analyst o Finance Analyst donde pueda aplicar mis habilidades, aprender de desafíos reales y crecer profesionalmente.
 
-## 📫 Contact
+## 📫 Contacto
 
-* LinkedIn: (www.linkedin.com/in/lucas-gabriel-lopez-676052167)
-* Email: (lucas.lopez.411@gmail.com)
+* LinkedIn: [www.linkedin.com/in/lucas-gabriel-lopez-676052167]
+* Email: [lucas.lopez.411@gmail.com]
