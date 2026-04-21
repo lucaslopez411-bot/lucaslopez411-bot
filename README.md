@@ -15,8 +15,9 @@ Tengo experiencia en contabilidad y finanzas, y actualmente estoy haciendo la tr
 
 ## 📈 Proyectos
 
-* 📊 Predicción de Churn (Machine Learning)
-* 📉 Dashboard de Negocios (Power BI)
+* 🌟 Predicción de Depresión en estudiantes (EDA - Machine Learning Supervisado)
+* 📊 Predicción de Churn en Bancos (Machine Learning - Aprendizaje Supervisado y No Supervisado)
+* 📉 Dashboard de Negocios (Power BI) *próximamente)*
 * 💰 Análisis de Datos Financieros *(próximamente)*
 
 ## 🚀 Actualmente Aprendiendo
