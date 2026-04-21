@@ -16,7 +16,7 @@ Tengo experiencia en contabilidad y finanzas, y actualmente estoy haciendo la tr
 ## 📈 Proyectos
 
 * 🌟 [Predicción de Depresión en estudiantes (EDA - Machine Learning Supervisado)](https://github.com/lucaslopez411-bot/Proyectos-Personales-Data-Science/blob/main/Proyectos%20en%20Python%20/Student_Depresion_Prediction.ipynb)
-* 📊 [Predicción de Churn en Bancos (Machine Learning - Aprendizaje Supervisado y No Supervisado)](https://github.com/lucaslopez411-bot/Proyectos-Personales-Data-Science/blob/main/Proyecto_DSII_Churn_Clientes_Lopez_Lucas.ipynb)
+* 📊 [Predicción de Churn en Bancos (Machine Learning - Aprendizaje Supervisado y No Supervisado)](https://github.com/lucaslopez411-bot/Proyectos-Personales-Data-Science/blob/main/Proyectos%20en%20Python%20/Proyecto_DSII_Churn_Clientes_Lopez_Lucas.ipynb)
 * 📉 Dashboard de Negocios (Power BI) *próximamente)*
 * 💰 Análisis de Datos Financieros *(próximamente)*
 
